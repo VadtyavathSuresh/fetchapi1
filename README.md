@@ -6,7 +6,7 @@ This is a simple JavaScript web application that uses the Fetch API to retrieve 
 
 ## 🌐 Live Demo
 
-👉 [Click here to view the hosted site]([https://<yourusername>.github.io/user-info-fetcher/](https://vadtyavathsuresh.github.io/fetchapi1/))
+👉 [Click here to view the hosted site (https://vadtyavathsuresh.github.io/fetchapi1/))
 
 > Replace `<fetchapi1>` with your GitHub username after hosting.
 
